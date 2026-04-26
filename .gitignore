@@ -1,0 +1,28 @@
+# local environments /secrets
+envs/
+.env
+*.env
+
+# logs
+*.log
+
+# temproary files
+*.tmp
+
+# OS/editor junk
+.DS_Store
+Thumps.db
+.vscode/
+.idea/
+
+# build output
+dist/
+build/
+out/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
